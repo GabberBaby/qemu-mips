@@ -1,0 +1,1 @@
+Debian Squeeze and Wheezy mips images for QEMU https://people.debian.org/~aurel32/qemu/mips/
